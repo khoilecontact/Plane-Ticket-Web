@@ -72,22 +72,22 @@ by KhoiLe.
 ```
 
 ## Contributors:
-<a href="https://github.com/phatnguyen1006/">
+<a href="https://www.facebook.com/tsone.ylov">
     <img src="https://avatars.githubusercontent.com/u/69576826?v=4" width="50px" />
 </a>
 
-<a href="https://github.com/cgphu">
-    <img src="https://avatars.githubusercontent.com/u/80504187?s=400&u=28c5b2ded2fb2a567a2ccb49d7fba444af0e3660&v=4" width="50px"/>
-</a>
-
-<a href="https://github.com/khoilecontact">
+<a href="https://www.facebook.com/khoi.le.quan">
     <img src="https://github.com/khoilecontact.png?size=400" width="50px" />
 </a>
 
-<a href="https://github.com/huyvouit">
+<a href="https://www.facebook.com/profile.php?id=100015743228561">
     <img src="https://avatars.githubusercontent.com/huyvouit" width="50px"/>
 </a>
 
-<a href="https://github.com/NguyenKhue09">
+<a href="https://www.facebook.com/profile.php?id=100015655094206">
     <img src="https://gamek.mediacdn.vn/133514250583805952/2020/3/4/photo-1-15833137511761959128634.jpg" width="50px"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100010591908074">
+    <img src="https://avatars.githubusercontent.com/u/80504187?s=400&u=28c5b2ded2fb2a567a2ccb49d7fba444af0e3660&v=4" width="50px"/>
 </a>
