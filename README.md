@@ -70,18 +70,24 @@ db.json //database.
 
 by KhoiLe.
 ```
-https://github.com/cgphu
-https://avatars.githubusercontent.com/u/80504187?s=400&u=28c5b2ded2fb2a567a2ccb49d7fba444af0e3660&v=4
 
+## Contributors:
+<a href="https://github.com/phatnguyen1006/">
+    <img src="https://avatars.githubusercontent.com/u/69576826?v=4" width="50px" />
+</a>
 
-KhoiLe 
-github: https://github.com/khoilecontact
-avatar: https://github.com/khoilecontact.png?size=400
+<a href="https://github.com/cgphu">
+    <img src="https://avatars.githubusercontent.com/u/80504187?s=400&u=28c5b2ded2fb2a567a2ccb49d7fba444af0e3660&v=4" width="50px"/>
+</a>
 
-Huyvouit
-| github: https://github.com/huyvouit
-| avatar: https://avatars.githubusercontent.com/huyvouit
+<a href="https://github.com/khoilecontact">
+    <img src="https://github.com/khoilecontact.png?size=400" width="50px" />
+</a>
 
-NguyenKhue09
-| github: https://github.com/NguyenKhue09
-| avatar: https://gamek.mediacdn.vn/133514250583805952/2020/3/4/photo-1-15833137511761959128634.jpg
+<a href="https://github.com/huyvouit">
+    <img src="https://avatars.githubusercontent.com/huyvouit" width="50px"/>
+</a>
+
+<a href="https://github.com/NguyenKhue09">
+    <img src="https://gamek.mediacdn.vn/133514250583805952/2020/3/4/photo-1-15833137511761959128634.jpg" width="50px"/>
+</a>
